@@ -9,10 +9,11 @@
 
 ---
 ### 프로젝트
-1. [일단모여]()
-2. [JAVA(자바)]()
-3. [그룹채팅]()
+1. 일단모여 (그룹 매칭 플랫폼)
+2. JAVA[자바] (호텔 예약 플랫폼)
+3. 그룹채팅 (채팅 서비스)
 
+[프로젝트 보러가기](naver.com)
 ---
 
 ### 보유기술
@@ -25,8 +26,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ---
 
-[포트폴리오](https://naver.com)
-[프로젝트](https://naver.com)
 <!--
 **JunYoungKim-kjy/JunYoungKim-kjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

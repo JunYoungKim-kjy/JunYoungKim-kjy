@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/JunYoungKim-kjy/JunYoungKim-kjy/blob/main/img/3X4 Web2.jpg?raw=true" />
+<img align="center" src="https://github.com/JunYoungKim-kjy/JunYoungKim-kjy/blob/main/img/3X4 Web2.jpg?raw=true" height="150" />
 <h1 align="center">jun-young's Portfolio ✨</h1>
 
 [포트폴리오](https://naver.com)

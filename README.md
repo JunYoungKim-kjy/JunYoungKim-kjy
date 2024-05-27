@@ -2,8 +2,7 @@
 <img align="center" src="https://github.com/JunYoungKim-kjy/JunYoungKim-kjy/blob/main/img/3X4 Web2.jpg?raw=true" height="300" />
 <h1 align="center">jun-young's Portfolio ✨</h1>
 
-[포트폴리오](https://naver.com)
-[프로젝트](https://naver.com)
+
 ---
 ### 교육과정
 * 자바 웹 개발 (Docker) 양성 과정 (2023.10.10 ~ 2024.04.24 )
@@ -26,6 +25,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ---
 
+[포트폴리오](https://naver.com)
+[프로젝트](https://naver.com)
 <!--
 **JunYoungKim-kjy/JunYoungKim-kjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

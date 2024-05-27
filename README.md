@@ -1,8 +1,7 @@
 <h1 align="center">jun-young's Portfolio ✨</h1>
 
-//[포트폴리오](https://fluorescent-day-904.notion.site/c97d67296e4f4159907bcc3e86569cd5?pvs=4)
-//<br>
-//[프로젝트](https://www.notion.so/e60a7afbdbfc4f748010f80d491a357f?v=e80ace7229a54bb18bdf5fadc77db1a4)
+[포트폴리오](https://naver.com)
+[프로젝트](https://naver.com)
 ---
 ### 교육과정
 * 자바 웹 개발 (Docker) 양성 과정 (2023.10.10 ~ 2024.04.24 )

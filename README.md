@@ -9,11 +9,11 @@
 
 ---
 ### 프로젝트
-1. 일단모여 (그룹 매칭 플랫폼)
-2. JAVA[자바] (호텔 예약 플랫폼)
-3. 그룹채팅 (채팅 서비스)
+1. [일단모여 (그룹 매칭 플랫폼)](https://www.notion.so/875f21ac47d14410ba7e420b95d1e83d?pvs=4)
+2. [JAVA[자바] (호텔 예약 플랫폼)](https://www.notion.so/35ff4d66fb8a46659af9a4ba9b5374cc?pvs=4)
+3. [그룹채팅 (채팅 서비스)](https://www.notion.so/3f3620bd49cc48a6bc90b7b6c52f65c3?pvs=4)
 
-[프로젝트 보러가기](naver.com)
+[포트폴리오](https://pine-join-97d.notion.site/Developer-c35263c8cbbb439c969dd4b86abb6fa2)
 ---
 
 ### 보유기술
